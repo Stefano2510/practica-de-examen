@@ -5,5 +5,5 @@ Este es el resultado del comando
 2. **¿Cuáles son locaciones de git?**
 	- [ ] Working tree
 	- [ ] Área de preparación
-	- [ ] Repositorio Remoto
+	- [X] Repositorio Remoto
 	- [ ] Repositorio Local
